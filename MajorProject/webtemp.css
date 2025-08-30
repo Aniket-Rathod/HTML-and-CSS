@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+.container-fluid{
+    border: 5px solid rgb(255, 0, 0);
+    height: auto;
+    background-color: white;
+    background-size: cover;
+    padding: 0px 0px 0px 0px; 
+}
+
+.container-fluid{
+    background-image: url('C:/Users/ASUS/Desktop/Programming/Internship - Archer IT/HTML & CSS/Project10/brawlstarbgclone.png');
+    background-size: contain;
+
+  }
+
+  .nav{
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .nav-item{
+    padding-left: 10px;
+  }
+
+  i.fa{
+	font-size: 40px;
+	color: black;
+    margin-top: 10px;
+	margin-right: 10px;
+}
+
+
+
